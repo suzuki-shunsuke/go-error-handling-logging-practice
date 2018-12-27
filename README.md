@@ -8,7 +8,7 @@ Golang application (not library)'s error handling and logging practice
 
 ## The specification Version
 
-The specification version is **v0.1.0-0** .
+The specification version is **v0.1.0** .
 
 ## Overview
 
