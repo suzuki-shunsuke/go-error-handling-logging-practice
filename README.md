@@ -1,5 +1,9 @@
 # go-error-handling-logging-practice
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-error-handling-logging-practice.svg)](https://github.com/suzuki-shunsuke/go-error-handling-logging-practice)
+[![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-error-handling-logging-practice.svg)](https://github.com/suzuki-shunsuke/go-error-handling-logging-practice/releases)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/suzuki-shunsuke/go-error-handling-logging-practice/master/LICENSE)
+
 Golang application (not library)'s error handling and logging practice
 
 ## The specification Version
